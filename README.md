@@ -1,4 +1,4 @@
-# CS189_F23
+# Coding Homeworks for the Berkeley CS189 F23 Class
 
 1. Fully_Connected_Neural_Network: Added in missing forward and backward code to finish the fully connected linear network. Used the network to classify the Iris dataset. Added a second "Pima Indians Diabetes" dataset.
 
