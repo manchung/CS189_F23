@@ -36,4 +36,7 @@
     |5|     78.7|    79.9|    79.7|     80.4
     |Avg|   80.2|    81.1|    81.1|     80.1
 
-    
+4. Robot Localization using Hidden Markov Model (HMM): Implemented Viterbi's Dynamic Programming algorithm to predict a hidden robot's location, given various sensor error rates.
+
+5. Jack's Car Rentals Optimal Policy Markov Decision Processes (MDP): Implemented both the Policy Iteration and Value Iteration algorithms to determine the optimal policy.  
+
