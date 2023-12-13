@@ -40,3 +40,10 @@
 
 5. Jack's Car Rentals Optimal Policy Markov Decision Processes (MDP): Implemented both the Policy Iteration and Value Iteration algorithms to determine the optimal policy.  
 
+6. em_theory.ipynb: Expectation Maximization (EM) algorithm visualization.
+
+7. GNN_Colab.ipynb: Coding two Graphical Neural Networks to train on
+ * a. ogbn-arxiv dataset:
+      Best model: Train: 60.20%, Valid: 56.44%
+ * b. ogbg-molhiv dataset:
+      Best model: Train: 59.44%, Valid: 66.37%
